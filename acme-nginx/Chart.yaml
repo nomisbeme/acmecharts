@@ -1,0 +1,16 @@
+name: acme-nginx
+version: 0.3.1
+description: Custom nginx configuration with certs
+keywords:
+- nginx
+- http
+- web
+- www
+- reverse proxy
+home: http://www.nginx.org
+sources:
+- https://github.com/bitnami/bitnami-docker-nginx
+maintainers:
+- name: Simon
+  email: me@acmecorp.com
+engine: gotpl
