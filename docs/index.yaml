@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   acme-mongodb:
-  - created: 2017-04-24T11:13:38.721483202-07:00
+  - created: 2017-11-29T21:30:27.824362731-08:00
     description: Chart for MongoDB with Acme hardening applied
     digest: 42432b1835cb5bb74907e94f03cd49be2c983a95f9f10a3799e07044b14cd3b5
     engine: gotpl
@@ -20,7 +20,7 @@ entries:
     - https://nomisbeme.github.io/acmecharts/acme-mongodb-0.3.2.tgz
     version: 0.3.2
   acme-nginx:
-  - created: 2017-04-24T11:13:38.722217242-07:00
+  - created: 2017-11-29T21:30:27.825202084-08:00
     description: Custom nginx configuration with certs
     digest: cd5a50c55ad34a8b37d1e11645b71500f7698982b23d782935d0543e982e1d9d
     engine: gotpl
@@ -41,7 +41,7 @@ entries:
     - https://nomisbeme.github.io/acmecharts/acme-nginx-0.3.1.tgz
     version: 0.3.1
   alpine:
-  - created: 2017-04-24T11:13:38.72291327-07:00
+  - created: 2017-11-29T21:30:27.827987914-08:00
     description: Deploy a basic Alpine Linux pod
     digest: ea88f1cc48ab8853d084359d48528eb838499a3d9b7a31f7b1f9221939f49136
     home: https://k8s.io/helm
@@ -51,4 +51,4 @@ entries:
     urls:
     - https://nomisbeme.github.io/acmecharts/alpine-0.2.0.tgz
     version: 0.2.0
-generated: 2017-04-24T11:13:38.719061786-07:00
+generated: 2017-11-29T21:30:27.812526955-08:00

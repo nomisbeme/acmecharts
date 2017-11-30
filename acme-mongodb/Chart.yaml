@@ -1,0 +1,14 @@
+name: acme-mongodb
+version: 0.3.2
+description: Chart for MongoDB with Acme hardening applied
+keywords:
+- mongodb
+- database
+- nosql
+home: https://mongodb.org
+sources:
+- https://github.com/bitnami/bitnami-docker-mongodb
+maintainers:
+- name: Bitnami
+  email: containers@bitnami.com
+engine: gotpl
